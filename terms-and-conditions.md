@@ -6,7 +6,7 @@ Upon downloading or utilizing the Application, you are automatically agreeing to
 
 Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider. The documents you create with the Application, and the data you enter into it, remain yours.
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason, subject to the price-lock described under Subscriptions. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
 
 The Application stores and processes the data you enter on your device in order to provide the Service; see the [Privacy Policy](privacy-policy). It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advises against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
@@ -67,9 +67,9 @@ The Application offers auto-renewing subscription plans. Creating, issuing, or e
 - **Trial:** New subscribers may be offered a 14-day trial. A trial automatically converts to a paid subscription at the end of the trial unless cancelled at least 24 hours before it ends. If you turn on the trial reminder, the Application notifies you 2 days before your trial ends.
 - **Billing:** Payment is charged to your Apple App Store or Google Play Store account upon confirmation of purchase, or at the end of the trial.
 - **Auto-Renewal:** Subscriptions automatically renew at the end of each billing period unless cancelled at least 24 hours before the end of the current period.
-- **Price-Lock:** Your subscription price does not go up for as long as you stay subscribed.
+- **Pricing:** Prices are set by the Apple App Store or Google Play, shown within the Application before you subscribe, and may change over time.
 - **Cancellation:** You may cancel your subscription at any time through your device's subscription settings (Apple App Store or Google Play Store). Cancellation takes effect at the end of the current billing period — you will retain access until then.
-- **After a Subscription Ends:** Everything you made stays on your device. You can still view, share, and export your data; creating, issuing, or editing issued documents requires resubscribing.
+- **After a Subscription Ends:** Everything you made stays on your device. You can still view, share, export, and back up your data; creating, issuing, or editing issued documents requires resubscribing.
 - **Stores:** A subscription stays with the store it was bought from: a subscription bought on an iPhone does not carry over to Android, or the other way round. Use **Restore purchases** to restore a subscription on the same store.
 - **Refunds:** Refund requests are handled by Apple or Google according to their respective refund policies.
 
@@ -92,7 +92,7 @@ These terms are governed by the laws of the Netherlands, without regard to its c
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of **2026-10-05**.
+These terms and conditions are effective as of **{PUBLISH_DATE}**.
 
 ## Contact Us
 

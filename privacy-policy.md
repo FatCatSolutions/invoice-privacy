@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** October 2026
+**Last updated:** {PUBLISH_DATE}
 
 This Privacy Policy explains how the **Invoice** app ("the App", "we", "us")
 handles your information. The App is provided by FatCatSolutions ("the Developer").
@@ -26,6 +26,8 @@ on your device, including:
 - Signatures captured on the device (a client's signature on an estimate, your
   own on an invoice)
 - App settings, such as your trial reminder and backup preferences
+- A random install ID generated on your device (used only locally, for example
+  to recognize a reinstall); it stays on your device and is never sent anywhere
 
 The App works offline. This data stays on your device unless you choose to send it
 elsewhere (see section 2). It is removed when you delete the App, unless you keep a
@@ -76,6 +78,9 @@ The App uses **Sentry** to collect crash and error reports so we can fix bugs.
 These reports may include your device model, operating-system version, App
 version, and technical diagnostic data (such as stack traces). They are not used
 to identify you.
+
+The App currently collects no analytics about how you use it. If we add
+analytics in the future, we will update this policy before doing so.
 
 ## 4. Subscriptions
 

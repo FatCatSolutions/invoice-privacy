@@ -24,7 +24,7 @@ Open the paywall, or tap your plan at the top of Settings, and tap **Restore pur
 You can cancel anytime from your store account: on **iOS** via Settings &rarr; your name &rarr; Subscriptions, or on **Android** via the Play Store &rarr; Subscriptions. Your subscription stays active until the end of the current billing period.
 
 ### What happens to my data if I stop subscribing?
-Everything you made stays on your phone. You can still view, share, and export it; you need a subscription to create or issue new documents.
+Everything you made stays on your phone. You can still view, share, export, and back it up; you need a subscription to create or issue new documents.
 
 ### How do I back up my data?
 Go to Settings &rarr; Backup and turn on backup to iCloud (iPhone) or Google Drive (Android). The App then makes a full backup once a day on Wi-Fi while charging, and you can tap **Back up now** at any time.
