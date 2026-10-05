@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** {PUBLISH_DATE}
+**Last updated:** 5 October 2026
 
 This Privacy Policy explains how the **Invoice** app ("the App", "we", "us")
 handles your information. The App is provided by FatCatSolutions ("the Developer").

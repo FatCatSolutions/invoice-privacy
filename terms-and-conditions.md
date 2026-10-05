@@ -92,7 +92,7 @@ These terms are governed by the laws of the Netherlands, without regard to its c
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of **{PUBLISH_DATE}**.
+These terms and conditions are effective as of **5 October 2026**.
 
 ## Contact Us
 
