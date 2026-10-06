@@ -2,9 +2,9 @@
 
 Last updated: 5 October 2026
 
-This policy explains what the Invoice app ("the App", "we", "us") does with your information. FatCatSolutions ("the Developer") provides the App.
+This policy explains what the Veli app ("the App", "we", "us") does with your information. FatCatSolutions ("the Developer") provides the App.
 
-Invoice keeps your data on your device. There is no account system, so you never sign up and never give us your name, email, phone number, or a password. We don't run a server that stores your invoices, clients, or business details, and we don't build advertising profiles.
+Veli keeps your data on your device. There is no account system, so you never sign up and never give us your name, email, phone number, or a password. We don't run a server that stores your invoices, clients, or business details, and we don't build advertising profiles.
 
 ## 1. Data stored only on your device
 
