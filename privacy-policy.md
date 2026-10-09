@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 5 October 2026
+Last updated: 9 October 2026
 
 This policy explains what the Veli app ("the App", "we", "us") does with your information. FatCatSolutions ("the Developer") provides the App.
 
@@ -16,7 +16,7 @@ Everything you enter or create lives in the App's private storage on your device
 - Your invoices, estimates, receipts, and credit notes, their payments, and every PDF version you share
 - Job photos you take or pick and attach to a document
 - Signatures captured on the device, either a client's on an estimate or your own on an invoice
-- App settings, such as your trial reminder and backup preferences
+- App settings, such as your backup preferences
 - A random install ID generated on your device. It is used only locally (for example, to recognize a reinstall) and is never sent anywhere
 
 The App works offline. This data stays on your device unless you send it somewhere yourself (see section 2). Deleting the App removes it, unless you kept a backup or export.
@@ -56,7 +56,7 @@ Apple (App Store) or Google (Google Play) processes subscriptions. The App never
 
 - Camera: used only when you tap "Take photo" to attach a job photo to a document. The photo is stored on your device.
 - Photos: when you pick photos or a logo from your library, the App keeps a copy of only the images you select.
-- Notifications: used only for the optional trial reminder, which shows a notification on your device 2 days before the trial ends. The device schedules it, and you can turn it off on the paywall or in your device settings.
+- Notifications: the App doesn't ask for notification permission and sends no notifications.
 
 You can deny or withdraw any of these permissions in your device settings. The rest of the App keeps working.
 

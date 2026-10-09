@@ -8,10 +8,7 @@ Stuck with Veli? Email us at [fatcatsolutions.tech@gmail.com](mailto:fatcatsolut
 No. There is no sign-up. Your invoices, clients, and settings stay on your phone.
 
 ### How does the trial work?
-New subscribers can start a 14-day trial. When it ends, a yearly or monthly subscription begins unless you cancel first. If you leave "Remind me 2 days before my trial ends" switched on, the app sends you a notification before you're charged.
-
-### I'm not getting the trial reminder.
-Check that notifications are allowed for Veli in your device settings, and that the reminder was switched on when you started the trial.
+New subscribers can start a 14-day trial. When it ends, a yearly or monthly subscription begins unless you cancel first. To avoid being charged, cancel at least 24 hours before it ends in your App Store or Google Play account settings.
 
 ### How do I restore my subscription?
 Open the paywall, or tap your plan at the top of Settings, and tap Restore purchases. Your subscription belongs to your App Store or Google Play account, so it doesn't carry over between iPhone and Android.
