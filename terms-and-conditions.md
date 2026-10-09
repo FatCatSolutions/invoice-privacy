@@ -62,7 +62,7 @@ We may also stop providing the App at any time, without notice. Unless we say ot
 The App offers auto-renewing subscription plans. Creating documents, issuing them, editing issued documents, and issuing receipts need an active subscription or trial. By subscribing, you agree to the following.
 
 - Plans: yearly and monthly. The App shows current prices at the time of purchase.
-- Trial: new subscribers may be offered a 14-day trial. It converts to a paid subscription when it ends unless you cancel at least 24 hours before. If you turn on the trial reminder, the App notifies you 2 days before the trial ends.
+- Trial: new subscribers may be offered a 14-day trial. It converts to a paid subscription when it ends unless you cancel at least 24 hours before.
 - Billing: your Apple App Store or Google Play account is charged when you confirm the purchase, or when the trial ends.
 - Auto-renewal: subscriptions renew at the end of each billing period unless you cancel at least 24 hours before that period ends.
 - Pricing: Apple or Google sets the prices. The App shows them before you subscribe, and they may change over time.
